@@ -1,0 +1,34 @@
+.root {
+    -fx-background-color: #40406b;
+
+}
+.label.label{
+    -fx-text-fill: #f2f2f2;
+    -fx-font-weight: bold;
+    -fx-font-size: 14;
+    -fx-min-width: 150px;
+}
+.button{
+    -fx-background-color: #00e68a;
+    -fx-text-alignment: center;
+    -fx-font-size: 30;
+    -fx-background-size: 200;
+}
+.text-field{
+    -fx-padding: 6px;
+    -fx-title-side: 30px;
+    -fx-max-width: 70px;
+    -fx-background-color: #3273a8;
+    -fx-fill: white;
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+.label-fo{
+    -fx-font-size: 35px;
+    /*-fx-font-weight: 100px;*/
+}
+/*ezt meg nem tudom aktivalni*/
+#thin-label{
+    -fx-font-weight: lighter;
+}
+

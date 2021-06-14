@@ -1,0 +1,15 @@
+.root{
+    -fx-background-color: #383838;
+    -fx-font-size: 23pt;
+    -fx-alignment: center;
+}
+.label{
+    -fx-text-fill: #f2f2f2;
+
+}
+.button{
+    -fx-background-radius: 10;
+    -fx-padding: 50pt,70pt,70pt,50pt;
+    -fx-alignment: center;
+    -fx-max-width: 300px;
+}
